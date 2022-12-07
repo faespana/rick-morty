@@ -91,3 +91,10 @@ input::placeholder{
 .info__text{
     font-weight: 500;
 }
+
+p{
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}

@@ -50,8 +50,6 @@ function App() {
           <i class="fa-brands fa-searchengin"></i>
         </button>
       </form>
-
-
       {
         hasError ?
           <ErrorFetch/>
@@ -68,6 +66,7 @@ function App() {
           </div>
         </>
       }
+      <p>Made with ❤️ by Felipao Espana</p>
     </div>
   )
 }
